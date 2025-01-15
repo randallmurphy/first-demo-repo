@@ -14,6 +14,8 @@ Watch tutorial on youtube.
 
 3 updated    
 
-## local d
+## local development
 
 another demo
+
+and another one
